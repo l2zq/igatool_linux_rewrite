@@ -3,3 +3,5 @@ Referenced igatool from https://github.com/Inori/FuckGalEngine/tree/master/Innoc
 
 垃圾代码警告  
 Warning: rubbish code
+
+Tested on FLOWERS: Le volume sur printemps  
